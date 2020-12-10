@@ -6,7 +6,7 @@ Vinicius Hideyuki Ikehara; 5191
 
 COMPILANDO E EXECUTANDO O CÓDIGO
 
-Este projeto é utilizado para introduzir os conceitos de gerenciamento de memória, nesta pasta, gerenciadorv3 estão incluídos os seguintes arquivos: vmm.c, anomaly.dat, gerador.c, Readme e o relatório em PDF.
+Este projeto é utilizado para introduzir os conceitos de gerenciamento de memória, nesta pasta gerenciadorv3, estão incluídos os seguintes arquivos: vmm.c, anomaly.dat, gerador.c, Readme e o relatório em PDF.
 
 Link para acesso ao projeto no git: https://github.com/mendoncathalitaa/Gerenciador-de-memoria
 
