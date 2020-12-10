@@ -10,7 +10,7 @@ Vinicius Hideyuki Ikehara; 5191
 
 COMPILANDO E EXECUTANDO O CÓDIGO
 
-Este projeto é utilizado para introduzir os conceitos de gerenciamento de memória, nesta pasta estão incluídos os seguintes arquivos: vmm.c, anomaly.dat, gerador.c, Readme e o relatório em PDF.
+Este projeto é utilizado para introduzir os conceitos de gerenciamento de memória, na pasta gerenciadorv3, estão incluídos os seguintes arquivos: vmm.c, anomaly.dat, gerador.c, Readme e o relatório em PDF.
 
 Como compilar e executar os códigos:
 1º Passo: Abrir o terminal na pasta com todos os arquivos;
