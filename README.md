@@ -3,7 +3,9 @@
 
 
 Amanda Oliveira Nascimento; 5149
+
 Thalita Mendonça Antico; 5141
+
 Vinicius Hideyuki Ikehara; 5191
 
 COMPILANDO E EXECUTANDO O CÓDIGO
